@@ -1,7 +1,7 @@
-###Project Name
+### Project Name
   Monroe and Florence Work Today
-###Project Director
+### Project Director
     New York Public Library
-###Project URL
+### Project URL
   (https://plaintalkhistory.com/monroeandflorencework/?u=2)
 ![Text in front of a newspaper](https://Rebecca-S1.github.io/Rebecca-S/images/Newspaper.jpg)
