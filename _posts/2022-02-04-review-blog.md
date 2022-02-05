@@ -13,4 +13,4 @@ The MFWT website accommodates Spanish as well as English speakers. There is an o
 
 As users scroll through the website, new background pictures appear. These visually appealing photos provide clear context that it is a new section. However, the pictures appear behind the text, so it is hard to see them. Even though users can scroll slower to view the background image before reading the text for that page, it is still challenging to appreciate the picture. ![Text in front of a newspaper](https://Rebecca-S1.github.io/Rebecca-S/images/Newspaper.jpg) It would be helpful if the background photos also had captions to contextualize them. Another option is to have a gallery of the images with descriptions to see what they represent.
 
-There are also various links that provide extra information through quotes, videos, or letters.
+There are also various links that provide extra information through quotes, videos, or letters. ![Information on W.E.B. Du Bois](https://Rebecca-S1.github.io/Rebecca-S/images/Dubois.jpg) 
