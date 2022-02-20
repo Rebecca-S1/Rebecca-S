@@ -1,0 +1,4 @@
+## Reflection on my first time using Oxygen
+
+  I was assigned a portion of Dracula's Guest by Brahm Stoker to encode using TEI (Text Encoding Initiative). Dracula's Guest is a short story that seems to be about Dracula and Jonathan Harker; however, there is no proof of this. The style is different than the novel, Dracula, and there is no way to identify the main character as Harker. I was assigned to encode from the end of page 14 through some of 15. This passage is about soldiers discussing the main character's condition and how to help him. I used Oxygen to encode the passage. Oxygen is software that uses TEI, a standard set of Extended Markup Language (XML) tags to encode digital editions.
+  We began this assignment with our portions in google drive. We used the comment feature to mark any paragraph beginnings, page beginnings, quotes, notes, and EM dashes.
